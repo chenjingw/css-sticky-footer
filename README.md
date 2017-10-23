@@ -1,2 +1,2 @@
 # css-sticky-footer
-footer固定在页面的底部-dome
+footer一直在页面的底部-dome
